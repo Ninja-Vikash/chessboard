@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body,
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.surface {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #ddd;
+}
+.board {
+  height: 96vh;
+  width: 96vh;
+  background-color: #fff;
+  display: flex;
+  flex-wrap: wrap;
+  box-shadow: 0vh 0vh 4vh black;
+}
+.board .squares {
+  border: 0.1vh solid black;
+  height: 12vh;
+  width: 12vh;
+}
+/* Black */
+.black {
+    background: #000;
+}
