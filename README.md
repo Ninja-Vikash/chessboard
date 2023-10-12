@@ -1,5 +1,5 @@
-## CHESS-BOARD-LAST-VERSION
+## CHESS-BOARD-OLDEST-VERSION
 
-Less CSS code written than previous version!
+### Beginner Level code.
 <br>
-Improvements are undergo.
+When I have only basic information of CSS.
