@@ -1,7 +1,6 @@
-## CHESS-BOARD-NEW-VERSION
-### More simple CSS code and Easy to read!
+# Chess Board Layout
 
-<hr>
-
-**Preview**
 ![Preview](https://github.com/Ninja-Vikash/Assets/blob/main/Chessboard%20Assets/chessboard.png)
+
+> Preview
+
