@@ -19,19 +19,38 @@ html {
   background-color: #ddd;
 }
 .board {
-  height: 96vh;
-  width: 96vh;
+  height: 700px;
+  width: 700px;
   background-color: #fff;
-  display: flex;
-  flex-wrap: wrap;
-  box-shadow: 0vh 0vh 4vh black;
+  display: grid;
+  grid-template-columns: repeat(8, 1fr);
+  box-shadow: 0vh 1vh 20vh 7px black;
+  outline: 5px solid white;
+  outline-offset: 2px;
 }
-.board .squares {
-  border: 0.1vh solid black;
-  height: 12vh;
-  width: 12vh;
+
+@media screen and (max-width: 800px) {
+  .board {
+    height: 500px;
+    width: 500px;
+  }
 }
+
+@media screen and (max-width: 600px) {
+  .board {
+    height: 400px;
+    width: 400px;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .board {
+    height: 300px;
+    width: 300px;
+  }
+}
+
 /* Black */
 .black {
-    background: #000;
+  background: #000;
 }
