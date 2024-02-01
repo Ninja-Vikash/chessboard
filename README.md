@@ -1,4 +1,4 @@
-# Chessboard Layout
+# Chessboard
 
 ![Preview](https://github.com/Ninja-Vikash/myassets/blob/main/Chessboard%20Assets/thumbnail.png)
 
