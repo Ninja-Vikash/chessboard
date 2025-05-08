@@ -1,4 +1,6 @@
-🌐✨ Chessboard Layout 🛡️👑
+Chessboard Base Layout
+
+A journey of CSS mastery!
 
 Explore my Chessboard Layout crafted with HTML, CSS, and CSS Grid. This project combines clean HTML structure, elegant CSS styling, and the power of CSS Grid for an organized and visually appealing chessboard. The layout is designed to seamlessly adapt to different screen sizes, showcasing responsive design with media queries.
 
